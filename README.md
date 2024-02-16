@@ -1,5 +1,5 @@
-# edgy_board number b123
-This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of chip XXXX via interfaces YYYY. 
+# edgy_board number b157
+This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides a 2A PoE rectifier using ABS210.
 
 ![](/board/board.png)
 
